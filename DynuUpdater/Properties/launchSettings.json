@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "DynuUpdater": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "API_KEY": "WdXW35g6Y4ZVVc53564cdVb564g74T37",
+        "DOTNET_ENVIRONMENT": "Development",
+        "DOMAINS": "dk-test.xyz"
+      }
+    }
+  }
+}
